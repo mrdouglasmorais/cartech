@@ -10260,7 +10260,7 @@ COLOR CUSTOMIZER
     display: block; }
 
 .r-header.r-header-strip-01 .r-header-strip {
-  background-color: transparent; }
+  background-color: #26326a; }
 .r-header.r-header-strip-01 .r-header-action a {
   padding: 5px 18px;
   border-color: rgba(255, 255, 255, 0.3); }
@@ -10604,7 +10604,7 @@ COLOR CUSTOMIZER
     display: none; } }
 @media (max-width: 767px) {
   .r-header.r-header-strip-01 .r-header-strip {
-    background-color: #000; }
+    background-color: #26326a; }
 
   .menu-icon {
     position: absolute;
